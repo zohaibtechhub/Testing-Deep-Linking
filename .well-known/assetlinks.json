@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.eazy_booking",
+      "sha256_cert_fingerprints": [
+        "5C:C6:74:B2:E4:A3:F8:95:58:45:D6:ED:73:F2:5F:02:CA:46:B2:0E:89:D6:25:03:74:A5:49:59:E8:2A:9B:D3"
+      ]
+    }
+  }
+]
